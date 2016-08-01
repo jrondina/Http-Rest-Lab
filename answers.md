@@ -12,4 +12,4 @@
 * get followers
 * get likes
 
-_Lovingly created by James, James, Jane, Jae & Jeric AKA Eric_
+_Lovingly created using first world labor and fair trade principles by James, James, Jane, Jae & Jeric AKA Eric_
