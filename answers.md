@@ -12,4 +12,4 @@
 * get followers
 * get likes
 
-_ Lovingly created by James, James, Jane, Jae & Jeric
+_Lovingly created by James, James, Jane, Jae & Jeric AKA Eric_
