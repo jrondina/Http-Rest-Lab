@@ -11,3 +11,5 @@
 * get post
 * get followers
 * get likes
+
+_ Lovingly created by James, James, Jane, Jae & Jeric
